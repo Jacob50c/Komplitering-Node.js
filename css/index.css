@@ -1,0 +1,4 @@
+body{margin: 0; padding: 10vh;}
+
+.textbox{float: left; width: 50vh; height: 10vh; border: solid 5px;
+  margin-left: 10vh; margin-right: 30vh; margin-bottom: 5vh; padding-left: 20px; padding-right: 20px;}
